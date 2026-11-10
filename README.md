@@ -1,13 +1,14 @@
 # NEXUS AI OS
+### Enterprise Intelligence Operating System Powered by AI
 
 ## Our Vision
-Build an intelligent operating system that helps people interact with their computers and applications using AI.
+Build an intelligent operating system that helps people interact with computers and applications using AI.
 
 ## Initial Goal
-Create a working AI-powered desktop assistant.
+Create a working AI-powered assistant that supports natural-language interaction and intelligent task assistance.
 
 ## Development Status
-Project initialized.
+Initial prototype developed. The project includes an AI-powered interface and local AI model integration. Authentication and persistent conversation storage are currently in progress.
 
 ## Long-Term Vision
-A secure, intelligent platform that connects applications, automates tasks, and assists users through natural language.
+Develop a secure, intelligent platform that connects applications, supports enterprise intelligence, automates workflows, and assists users through natural language.
